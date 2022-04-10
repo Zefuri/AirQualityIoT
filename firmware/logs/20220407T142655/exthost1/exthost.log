@@ -1,0 +1,15 @@
+[2022-04-07 14:26:58.852] [exthost] [info] Extension host with pid 1685 started
+[2022-04-07 14:26:58.852] [exthost] [info] Skipping acquiring lock for /github/RIOTOS/RIOT/User/workspaceStorage/8131e7bed3f458c7f0548495108f7f21.
+[2022-04-07 14:26:59.072] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-07 14:26:59.081] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-04-07 14:26:59.096] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-07 14:26:59.136] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-07 14:26:59.177] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-07 14:26:59.267] [exthost] [info] Eager extensions activated
+[2022-04-07 14:26:59.348] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-07 14:26:59.365] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-07 15:37:30.192] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-04-07 15:37:30.233] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-04-07 15:37:30.786] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-04-07 16:14:37.132] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-07 16:14:37.146] [exthost] [info] Extension host with pid 1685 exiting with code 0
